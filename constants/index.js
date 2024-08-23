@@ -66,25 +66,25 @@ export const Difference = [
     {
         title: "Focus on Socio-Economic Growth",
         content: "We prioritize causes that drive socio-economic development, such as vocational training, education, and healthcare, fostering sustainable growth in African communities.",
-        src: "/growth.png",
+        src: "/Growth.png",
         variant: "filled",
     },
     {
         title: " Blockchain Transparency",
         content: "Our platform leverages blockchain technology to ensure every donation is tracked, verified, and transparent, building trust and accountability with our donors.",
-        src: "/blockchain.png",
+        src: "/Blockchain.png",
         variant: "filled",
     },
     {
         title: "Comprehensive Support",
         content: "From aiding GBV victims to providing basic necessities, we address a wide range of critical needs, making a holistic impact on individuals' lives.",
-        src: "/support.png",
+        src: "/Support.png",
         variant: "filled",
     },
     {
         title: "Community-Driven",
         content: "RefreeG is built by and for compassionate individuals committed to creating a better future. Join us in making a difference!",
-        src: "/community.png",
+        src: "/Community.png",
         variant: "filled",
     },
 ]
@@ -103,7 +103,7 @@ export const WhoIs = [
         key: 3,
         list: "Driving Socio-Economic Growth: Through their contributions and involvement, Refreegerians help build sustainable communities and foster self-reliance."
     },
-] 
+]
 
 
 export const Founders = [
